@@ -9,6 +9,7 @@ The functionality of the software under test (**SUT**) is checked without lookin
 
 Consider this [BLACK BOX]
 It can be any software system you want to test.
+
 It can be:
 - An operating system like Windows
 - A website like Goole
