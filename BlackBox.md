@@ -15,25 +15,25 @@ It can be:
 - An operating system like Windows
 - A website like Google
 - A database like Oracle
-- Or even your own custom Application.
+- Or even your own custom application.
 
 **Input &#10230; ![alt text][Black box] &#10230; Output**
 
 You can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
 
-# Types of Black Box Testing
+## Types of Black Box Testing
 There are many types of Black Box Testing but following are the prominent ones.
 
-#### 1. Functional Testing
+##### 1. Functional Testing
 This black box testing type is related to functional requirements of a system. It is done by software testers.
 
-#### 2. Non-functional testing
+##### 2. Non-functional testing
 This type of black box testing is not related to testing of a specific functionailty, but non-functional requirements such as performance, scalability and usability. 
 
-#### 3. Regression Testing
+##### 3. Regression Testing
 Regression testing is done after code fixes, upgrades or any other system maintenance to check the new code has not affected the existing code.
 
-# How to Peform Black Box Testing?
+## How to Perform Black Box Testing?
 Generic steps followed to carry out any type of Black Box Testing.
 
 1. Initially requirements and specification of the system are examined. 
@@ -50,11 +50,11 @@ Generic steps followed to carry out any type of Black Box Testing.
 
 7. Defects if any are fixed and re-tested.
 
-# Tools for Black Box Testing?
+## Tools for Black Box Testing?
 Tools for black box testing largely depends on the type of black box teting you are doing.
 
-- For Functional/ Regression Tests you can use - QTP
-- For Non-Functional Tests you can use - Loadrunner
+- For Functional/ Regression Tests you can use - __*QTP*__
+- For Non-Functional Tests you can use - __*Loadrunner*__
 
 Let's compare BlackBox with WhiteBox Testing?
 
