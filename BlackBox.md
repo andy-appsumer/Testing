@@ -7,7 +7,7 @@ The functionality of the software under test (**SUT**) is checked without lookin
 
 > Based entirely on the software requirements and specifications.
 
-Consider this [BLACK BOX]
+Consider this ![alt text](https://github.com/andy-appsumer/master/blackbox.png "Logo Title Text 1")
 It can be any software system you want to test.
 
 It can be:
