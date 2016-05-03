@@ -5,7 +5,7 @@ The functionality of the software under test (**SUT**) is checked without lookin
 * implementation details 
 * or knowledge of internal paths of the software.
 
-> Based entirely on the software requirements and specifications.
+ *Based entirely on the software requirements and specifications.*
 
 Consider this 
 ![alt text][Black box]
