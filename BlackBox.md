@@ -1,4 +1,4 @@
-# What is Black Box   &#10230; Testing?
+# What is Black Box Testing?
 
 The functionality of the software under test (**SUT**) is checked without looking at: 
 * the internal code structure
@@ -18,7 +18,7 @@ It can be:
 - A database like Oracle
 - Or even your own custom Application.
 
-Input --> ![alt text][Black box] --> Output
+Input &#10230; ![alt text][Black box] &#10230; Output
 you can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
 
 # Types of Black Box Testing
