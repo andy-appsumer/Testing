@@ -1,4 +1,4 @@
-# What is Black Box Testing?
+# What is Black Box   &#10230 Testing?
 
 The functionality of the software under test (**SUT**) is checked without looking at: 
 * the internal code structure
