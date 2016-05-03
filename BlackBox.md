@@ -18,7 +18,8 @@ It can be:
 - Or even your own custom Application.
 
 **Input &#10230; ![alt text][Black box] &#10230; Output**
-you can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
+
+You can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
 
 # Types of Black Box Testing
 There are many types of Black Box Testing but following are the prominent ones.
