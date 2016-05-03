@@ -9,7 +9,7 @@ The functionality of the software under test (**SUT**) is checked without lookin
 
 Consider this 
 ![alt text][Black box]
-[Black box]:  https://github.com/andy-appsumer/Testing/blob/master/blackbox.png "BlackBox Pic"
+[Black box]:  https://github.com/andy-appsumer/Testing/blob/master/blackbox.jpg "BlackBox Pic"
 It can be any software system you want to test.
 
 It can be:
@@ -18,7 +18,7 @@ It can be:
 - A database like Oracle
 - Or even your own custom Application.
 
-Input --> [BLACK BOX] --> Output
+Input --> ![alt text][Black box] --> Output
 you can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
 
 # Types of Black Box Testing
