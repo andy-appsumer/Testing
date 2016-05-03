@@ -9,7 +9,7 @@ The functionality of the software under test (**SUT**) is checked without lookin
 
 Consider this 
 ![alt text][Black box]
-[Black box]:  https://github.com/andy-appsumer/Testing/blackbox.png "BlackBox Pic"
+[Black box]:  https://github.com/andy-appsumer/Testing/blob/master/blackbox.png "BlackBox Pic"
 It can be any software system you want to test.
 
 It can be:
