@@ -11,7 +11,6 @@ Consider this
 ![alt text][Black box]
 [Black box]:  https://github.com/andy-appsumer/Testing/blob/master/blackbox.jpg "BlackBox Pic"
 It can be any software system you want to test.
-
 It can be:
 - An operating system like Windows
 - A website like Goole
