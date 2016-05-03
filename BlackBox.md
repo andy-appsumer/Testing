@@ -66,8 +66,3 @@ Usually, software systems are not developed in a single chunk, but is broken dow
 > In case you push code fixes in your live software system, a complete system check (black box regression tests) becomes essential.
 
 Though White Box testing has its own merits and helps detect many internal errors which may degrade system performance. 
-
-
-
-
-
