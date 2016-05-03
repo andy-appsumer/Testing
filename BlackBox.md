@@ -13,7 +13,7 @@ Consider this
 It can be any software system you want to test.
 It can be:
 - An operating system like Windows
-- A website like Goole
+- A website like Google
 - A database like Oracle
 - Or even your own custom Application.
 
