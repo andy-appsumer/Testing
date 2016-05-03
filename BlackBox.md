@@ -9,7 +9,7 @@ The functionality of the software under test (**SUT**) is checked without lookin
 
 Consider this [BLACK BOX]
 It can be any software system you want to test.
-It can be:
+/nIt can be:
 - An operating system like Windows
 - A website like Goole
 - A database like Oracle
@@ -21,13 +21,13 @@ you can test these applications by just focusing on the inputs and outputs witho
 # Types of Black Box Testing
 There are many types of Black Box Testing but following are the prominent ones.
 
-## 1. Functional Testing
+#### 1. Functional Testing
 This black box testing type is related to functional requirements of a system. It is done by software testers.
 
-## 2. Non-functional testing
+#### 2. Non-functional testing
 This type of black box testing is not related to testing of a specific functionailty, but non-functional requirements such as performance, scalability and usability. 
 
-## 3. Regression Testing
+#### 3. Regression Testing
 Regression testing is done after code fixes, upgrades or any other system maintenance to check the new code has not affected the existing code.
 
 # How to Peform Black Box Testing?
